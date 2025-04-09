@@ -1,4 +1,4 @@
-package com.pikecape.springboot.async.config;
+package com.pikecape.springboot.async.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
